@@ -4,3 +4,9 @@ C:\dev\NetSystemConfigurationExample\NetSystemConfigurationExample\bin\Debug\Net
 C:\dev\NetSystemConfigurationExample\NetSystemConfigurationExample\obj\Debug\NetSystemConfigurationExample.csprojResolveAssemblyReference.cache
 C:\dev\NetSystemConfigurationExample\NetSystemConfigurationExample\obj\Debug\NetSystemConfigurationExample.exe
 C:\dev\NetSystemConfigurationExample\NetSystemConfigurationExample\obj\Debug\NetSystemConfigurationExample.pdb
+C:\dev\NetSystemConfigurationExample\bin\Debug\NetSystemConfigurationExample.exe.config
+C:\dev\NetSystemConfigurationExample\bin\Debug\NetSystemConfigurationExample.exe
+C:\dev\NetSystemConfigurationExample\bin\Debug\NetSystemConfigurationExample.pdb
+C:\dev\NetSystemConfigurationExample\obj\Debug\NetSystemConfigurationExample.csprojResolveAssemblyReference.cache
+C:\dev\NetSystemConfigurationExample\obj\Debug\NetSystemConfigurationExample.exe
+C:\dev\NetSystemConfigurationExample\obj\Debug\NetSystemConfigurationExample.pdb
