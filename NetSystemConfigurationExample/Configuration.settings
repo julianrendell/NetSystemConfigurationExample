@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NetSystemConfigurationExample" GeneratedClassName="Configuration">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I'm a user setting defined in the settings file in the project's root directory. I'll be stored in %AppData% too.</Value>
+    </Setting>
+    <Setting Name="ApplicationSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">An application setting defined in configuration.settings.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

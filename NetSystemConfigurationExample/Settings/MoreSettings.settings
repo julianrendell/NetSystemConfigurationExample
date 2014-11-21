@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NetSystemConfigurationExample.Settings" GeneratedClassName="MoreSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MoreSettingsUserSetting" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I'm the User setting that can be modified and can be written out to a specially named (unique to each binary) location in %AppData%.</Value>
+    </Setting>
+    <Setting Name="MoreSettingsApplicationSetting" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">I'm an Application Setting that can be overridden from the app.config but can't be modified by the application.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
